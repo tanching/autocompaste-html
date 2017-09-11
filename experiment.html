@@ -109,8 +109,8 @@
                 }
 
                 if (currentTrial < totalNumberOfTrials) {
-                    // ACPToolKit.presentTrial(trialsData[currentTrial]);
-                    ACPToolKit.presentTrial(trialsData.P01[currentTrial]);
+                    ACPToolKit.presentTrial(trialsData[currentTrial]);
+                    // ACPToolKit.presentTrial(trialsData.P01[currentTrial]);
                     currentTrial += 1;
                     $('.js-expt-current-trial').text(currentTrial);
                 } else {
@@ -126,11 +126,37 @@
                 $.get('./data/experiment.json', function (data) {
                     trialsData = data.experiments;
                     currentTrial = 0;
-                    totalNumberOfTrials = trialsData.P01.length;
+                    pid = ACPToolKit.getCurrentParticipantId();
+                    console.log(pid)
+
+                    switch (pid) {
+                        case 'P01':
+                            trialsData = data.experiments.P01;
+                            break;
+                        case 'P02':
+                            trialsData = data.experiments.P02;
+                            break;
+                        case 'P03':
+                            trialsData = data.experiments.P03;
+                            break;
+                        case 'P04':
+                            trialsData = data.experiments.P04;
+                            break;
+                        case 'P05':
+                            trialsData = data.experiments.P05;
+                            break;
+                        case 'P06':
+                            trialsData = data.experiments.P06;
+                            break;
+                        default:
+                            trialsData = data.experiments.P01;
+                    }
+                    totalNumberOfTrials = trialsData.length;
+                    // totalNumberOfTrials = trialsData.P01.length;
                     $('.js-expt-num-trials').text(totalNumberOfTrials);                    
                     trialData.push(headers);
                     next();
-                    pid = ACPToolKit.getCurrentParticipantId();
+                    // pid = ACPToolKit.getCurrentParticipantId();
                 }, "json").done(function() {
                     console.log('after done')
                     console.log(trialsData)
