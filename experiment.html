@@ -81,7 +81,7 @@
             var trialsData;
             var currentTrial;
             var totalNumberOfTrials;
-            var headers = ['Participant id', 'Technique', 'Granularity',
+            var headers = ['Participant id', 'Technique', 'Granularity', 'No. of Windows',
                             'Trial no', 'Stimuli', 'User Response', 'Trial Start Time',
                             'Trial End Time', 'Trial Time', 'Accuracy'];
             var trialData = [];
@@ -93,6 +93,7 @@
 
                     var technique = trialResult.technique;
                     var granularity = trialResult.granularity;
+                    var numOfWindows = trialResult.window;
                     var trialNum = currentTrial;
                     var stimuli = trialResult.stimuli;
                     var userResponse = trialResult.user_response;
@@ -101,7 +102,7 @@
                     var trialDuration = trialResult.duration;
                     var accuracy = stimuli === userResponse ? 1 : 0;
 
-                    var row = [pid, technique, granularity, trialNum,
+                    var row = [pid, technique, granularity, numOfWindows, trialNum,
                                 stimuli, userResponse, trialStartTime,
                                 trialEndTime, trialDuration, accuracy];
                     trialData.push(row);
@@ -127,6 +128,10 @@
                     trialData.push(headers);
                     next();
                     pid = ACPToolKit.getCurrentParticipantId();
+                }).done(function() {
+                    console.log('after done')
+                    console.log(trialsData)
+                    console.log(pid)
                 })
             });
         </script>
