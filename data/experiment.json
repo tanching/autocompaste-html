@@ -6,7 +6,7 @@
             "granularity": "phrase",
             "data_file": "data/onewindow-text.json",
             "stimuli": "What is acceptor atoms?",
-            "window": "1"
+            "window": 1
         },
         {
             "technique": "AUTOCOMPASTE", 

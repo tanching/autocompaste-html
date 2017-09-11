@@ -47,7 +47,7 @@
                             </tr>
                             <tr>
                                 <td>Num Of Windows</td>
-                                <td><span class="js-expt-window">?</span></td>
+                                <td><span class="js-expt-window"></span></td>
                             </tr>
                             <tr>
                                 <td>Trial</td>
@@ -110,7 +110,7 @@
 
                 if (currentTrial < totalNumberOfTrials) {
                     ACPToolKit.presentTrial(trialsData[currentTrial]);
-                    // ACPToolKit.presentTrial(trialsData.P01[currentTrial]);
+                    $('.js-expt-window').text(trialsData[currentTrial].window);
                     currentTrial += 1;
                     $('.js-expt-current-trial').text(currentTrial);
                 } else {
@@ -152,7 +152,6 @@
                             trialsData = data.experiments.P01;
                     }
                     totalNumberOfTrials = trialsData.length;
-                    // totalNumberOfTrials = trialsData.P01.length;
                     $('.js-expt-num-trials').text(totalNumberOfTrials);                    
                     trialData.push(headers);
                     next();
@@ -165,8 +164,6 @@
                     alert('error');
                     console.log(data)
                     console.log(error)
-                }).always(function(){
-                    console.log(trialsData)
                 })
             });
         </script>
