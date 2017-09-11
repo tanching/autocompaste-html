@@ -46,7 +46,7 @@
                                 <td><span class="js-expt-granularity">Phrase</span></td>
                             </tr>
                             <tr>
-                                <td>Num Of Windows</td>
+                                <td>Number Of Window(s)</td>
                                 <td><span class="js-expt-window"></span></td>
                             </tr>
                             <tr>
@@ -129,7 +129,7 @@
                     pid = ACPToolKit.getCurrentParticipantId();
                     console.log(pid)
 
-                    switch (pid) {
+                    switch (pid.toUpperCase()) {
                         case 'P01':
                             trialsData = data.experiments.P01;
                             break;
@@ -149,6 +149,7 @@
                             trialsData = data.experiments.P06;
                             break;
                         default:
+                            console.log('cannot find pid')
                             trialsData = data.experiments.P01;
                     }
                     totalNumberOfTrials = trialsData.length;
