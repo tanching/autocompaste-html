@@ -5,762 +5,3030 @@
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "all possible combinations",
+            "window": 1,
+            "trialNo": 1
+        },
+        {   
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "saturation and cut off",
+            "window": 1,
+            "trialNo": 2
+        },
+        {   
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "accept free electrons",
+            "window": 1,
+            "trialNo": 3
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "What is active filter?",
+            "window": 1,
+            "trialNo": 10
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 11
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 12
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "What is active region? The region of BJT operation between saturation and cut off used for linear amplification.",
+            "window": 1,
+            "trialNo": 19
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 20
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is AC power supply? Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 21
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "positive electrode or terminal",
+            "window": 3,
+            "trialNo": 4
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "area of the wave below",
+            "window": 3,
+            "trialNo": 5
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "the half power points",
+            "window": 3,
+            "trialNo": 6
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "The rotating or moving component of a magnetic circuit.",
+            "window": 3,
+            "trialNo": 13
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is average value?",
+            "window": 3,
+            "trialNo": 14
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "A base 2 number system.",
+            "window": 3,
+            "trialNo": 15
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "What is antenna, receiving? A device that converts a radiated electromagnetic wave into an electrical wave.",
+            "window": 3,
+            "trialNo": 22
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is avionics? Aviation electronics.",
+            "window": 3,
+            "trialNo": 23
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is bipolar junction transistor? (BJT), A three terminal device in which emitter to collector current is controlled by base current.",
+            "window": 3,
+            "trialNo": 24
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "an amplifier in addition",
+            "window": 5,
+            "trialNo": 7
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "primary cell that delivers",
+            "window": 5,
+            "trialNo": 8
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "single winding transformer",
+            "window": 5,
+            "trialNo": 9
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "What is AC generator?",
+            "window": 5,
+            "trialNo": 16
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "Name for an AC generator.",
+            "window": 5,
+            "trialNo": 17
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "Approximately 20 Hz to 20 kHz.",
+            "window": 5,
+            "trialNo": 18
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "What is AC/DC? Equipment that will operate on either an AC or DC power source.",
+            "window": 5,
+            "trialNo": 25
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is alligator clip? Spring clip on the end of a test lead used to make a temporary connection.",
+            "window": 5,
+            "trialNo": 26
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is attenuate? To reduce the amplitude of an action or signal. The opposite of amplification.",
+            "window": 5,
+            "trialNo": 27
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "all possible combinations",
+            "window": 1,
+            "trialNo": 1
+        },
+        {   
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "saturation and cut off",
+            "window": 1,
+            "trialNo": 2
+        },
+        {   
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "accept free electrons",
+            "window": 1,
+            "trialNo": 3
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "What is active filter?",
+            "window": 1,
+            "trialNo": 10
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 11
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 12
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "What is active region? The region of BJT operation between saturation and cut off used for linear amplification.",
+            "window": 1,
+            "trialNo": 19
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 20
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is AC power supply? Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 21
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "positive electrode or terminal",
+            "window": 3,
+            "trialNo": 4
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "area of the wave below",
+            "window": 3,
+            "trialNo": 5
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "the half power points",
+            "window": 3,
+            "trialNo": 6
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "The rotating or moving component of a magnetic circuit.",
+            "window": 3,
+            "trialNo": 13
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is average value?",
+            "window": 3,
+            "trialNo": 14
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "A base 2 number system.",
+            "window": 3,
+            "trialNo": 15
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "What is antenna, receiving? A device that converts a radiated electromagnetic wave into an electrical wave.",
+            "window": 3,
+            "trialNo": 22
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is avionics? Aviation electronics.",
+            "window": 3,
+            "trialNo": 23
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is bipolar junction transistor? (BJT), A three terminal device in which emitter to collector current is controlled by base current.",
+            "window": 3,
+            "trialNo": 24
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "an amplifier in addition",
+            "window": 5,
+            "trialNo": 7
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "primary cell that delivers",
+            "window": 5,
+            "trialNo": 8
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "single winding transformer",
+            "window": 5,
+            "trialNo": 9
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "What is AC generator?",
+            "window": 5,
+            "trialNo": 16
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "Name for an AC generator.",
+            "window": 5,
+            "trialNo": 17
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "Approximately 20 Hz to 20 kHz.",
+            "window": 5,
+            "trialNo": 18
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "What is AC/DC? Equipment that will operate on either an AC or DC power source.",
+            "window": 5,
+            "trialNo": 25
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is alligator clip? Spring clip on the end of a test lead used to make a temporary connection.",
+            "window": 5,
+            "trialNo": 26
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is attenuate? To reduce the amplitude of an action or signal. The opposite of amplification.",
+            "window": 5,
+            "trialNo": 27
         }],
         "P02": [
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "positive electrode or terminal",
+            "window": 3,
+            "trialNo": 4
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "the half power points",
+            "window": 3,
+            "trialNo": 6
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "area of the wave below",
+            "window": 3,
+            "trialNo": 5
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "The rotating or moving component of a magnetic circuit.",
+            "window": 3,
+            "trialNo": 13
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "A base 2 number system.",
+            "window": 3,
+            "trialNo": 15
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is average value?",
+            "window": 3,
+            "trialNo": 14
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "What is antenna, receiving? A device that converts a radiated electromagnetic wave into an electrical wave.",
+            "window": 3,
+            "trialNo": 22
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is bipolar junction transistor? (BJT), A three terminal device in which emitter to collector current is controlled by base current.",
+            "window": 3,
+            "trialNo": 24
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is avionics? Aviation electronics.",
+            "window": 3,
+            "trialNo": 23
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "an amplifier in addition",
+            "window": 5,
+            "trialNo": 7
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "single winding transformer",
+            "window": 5,
+            "trialNo": 9
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "primary cell that delivers",
+            "window": 5,
+            "trialNo": 8
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "What is AC generator?",
+            "window": 5,
+            "trialNo": 16
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "Approximately 20 Hz to 20 kHz.",
+            "window": 5,
+            "trialNo": 18
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "Name for an AC generator.",
+            "window": 5,
+            "trialNo": 17
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "What is AC/DC? Equipment that will operate on either an AC or DC power source.",
+            "window": 5,
+            "trialNo": 25
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is attenuate? To reduce the amplitude of an action or signal. The opposite of amplification.",
+            "window": 5,
+            "trialNo": 27
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is alligator clip? Spring clip on the end of a test lead used to make a temporary connection.",
+            "window": 5,
+            "trialNo": 26
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "all possible combinations",
+            "window": 1,
+            "trialNo": 1
+        },
+        {   
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "accept free electrons",
+            "window": 1,
+            "trialNo": 3
+        },
+        {   
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "saturation and cut off",
+            "window": 1,
+            "trialNo": 2
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "What is active filter?",
+            "window": 1,
+            "trialNo": 10
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 12
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 11
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "What is active region? The region of BJT operation between saturation and cut off used for linear amplification.",
+            "window": 1,
+            "trialNo": 19
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is AC power supply? Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 21
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 20
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "positive electrode or terminal",
+            "window": 3,
+            "trialNo": 4
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "the half power points",
+            "window": 3,
+            "trialNo": 6
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "area of the wave below",
+            "window": 3,
+            "trialNo": 5
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "The rotating or moving component of a magnetic circuit.",
+            "window": 3,
+            "trialNo": 13
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "A base 2 number system.",
+            "window": 3,
+            "trialNo": 15
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is average value?",
+            "window": 3,
+            "trialNo": 14
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "What is antenna, receiving? A device that converts a radiated electromagnetic wave into an electrical wave.",
+            "window": 3,
+            "trialNo": 22
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is bipolar junction transistor? (BJT), A three terminal device in which emitter to collector current is controlled by base current.",
+            "window": 3,
+            "trialNo": 24
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is avionics? Aviation electronics.",
+            "window": 3,
+            "trialNo": 23
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "an amplifier in addition",
+            "window": 5,
+            "trialNo": 7
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "single winding transformer",
+            "window": 5,
+            "trialNo": 9
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "primary cell that delivers",
+            "window": 5,
+            "trialNo": 8
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "What is AC generator?",
+            "window": 5,
+            "trialNo": 16
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "Approximately 20 Hz to 20 kHz.",
+            "window": 5,
+            "trialNo": 18
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "Name for an AC generator.",
+            "window": 5,
+            "trialNo": 17
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "What is AC/DC? Equipment that will operate on either an AC or DC power source.",
+            "window": 5,
+            "trialNo": 25
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is attenuate? To reduce the amplitude of an action or signal. The opposite of amplification.",
+            "window": 5,
+            "trialNo": 27
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is alligator clip? Spring clip on the end of a test lead used to make a temporary connection.",
+            "window": 5,
+            "trialNo": 26
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "all possible combinations",
+            "window": 1,
+            "trialNo": 1
+        },
+        {   
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "accept free electrons",
+            "window": 1,
+            "trialNo": 3
+        },
+        {   
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "saturation and cut off",
+            "window": 1,
+            "trialNo": 2
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "What is active filter?",
+            "window": 1,
+            "trialNo": 10
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 12
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 11
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "What is active region? The region of BJT operation between saturation and cut off used for linear amplification.",
+            "window": 1,
+            "trialNo": 19
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is AC power supply? Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 21
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 20
         }],
         "P03": [
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "primary cell that delivers",
+            "window": 5,
+            "trialNo": 8
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "an amplifier in addition",
+            "window": 5,
+            "trialNo": 7
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "single winding transformer",
+            "window": 5,
+            "trialNo": 9
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "Name for an AC generator.",
+            "window": 5,
+            "trialNo": 17
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is AC generator?",
+            "window": 5,
+            "trialNo": 16
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "Approximately 20 Hz to 20 kHz.",
+            "window": 5,
+            "trialNo": 18
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "What is alligator clip? Spring clip on the end of a test lead used to make a temporary connection.",
+            "window": 5,
+            "trialNo": 26
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is AC/DC? Equipment that will operate on either an AC or DC power source.",
+            "window": 5,
+            "trialNo": 25
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is attenuate? To reduce the amplitude of an action or signal. The opposite of amplification.",
+            "window": 5,
+            "trialNo": 27
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "saturation and cut off",
+            "window": 1,
+            "trialNo": 2
+        },
+        {   
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "all possible combinations",
+            "window": 1,
+            "trialNo": 1
+        },
+        {   
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "accept free electrons",
+            "window": 1,
+            "trialNo": 3
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 11
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is active filter?",
+            "window": 1,
+            "trialNo": 10
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 12
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 20
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is active region? The region of BJT operation between saturation and cut off used for linear amplification.",
+            "window": 1,
+            "trialNo": 19
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is AC power supply? Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 21
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "area of the wave below",
+            "window": 3,
+            "trialNo": 5
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "positive electrode or terminal",
+            "window": 3,
+            "trialNo": 4
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "the half power points",
+            "window": 3,
+            "trialNo": 6
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "What is average value?",
+            "window": 3,
+            "trialNo": 14
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "The rotating or moving component of a magnetic circuit.",
+            "window": 3,
+            "trialNo": 13
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "A base 2 number system.",
+            "window": 3,
+            "trialNo": 15
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "What is avionics? Aviation electronics.",
+            "window": 3,
+            "trialNo": 23
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is antenna, receiving? A device that converts a radiated electromagnetic wave into an electrical wave.",
+            "window": 3,
+            "trialNo": 22
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is bipolar junction transistor? (BJT), A three terminal device in which emitter to collector current is controlled by base current.",
+            "window": 3,
+            "trialNo": 24
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "primary cell that delivers",
+            "window": 5,
+            "trialNo": 8
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "an amplifier in addition",
+            "window": 5,
+            "trialNo": 7
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "single winding transformer",
+            "window": 5,
+            "trialNo": 9
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "Name for an AC generator.",
+            "window": 5,
+            "trialNo": 17
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is AC generator?",
+            "window": 5,
+            "trialNo": 16
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "Approximately 20 Hz to 20 kHz.",
+            "window": 5,
+            "trialNo": 18
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "What is alligator clip? Spring clip on the end of a test lead used to make a temporary connection.",
+            "window": 5,
+            "trialNo": 26
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is AC/DC? Equipment that will operate on either an AC or DC power source.",
+            "window": 5,
+            "trialNo": 25
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is attenuate? To reduce the amplitude of an action or signal. The opposite of amplification.",
+            "window": 5,
+            "trialNo": 27
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "saturation and cut off",
+            "window": 1,
+            "trialNo": 2
+        },
+        {   
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "all possible combinations",
+            "window": 1,
+            "trialNo": 1
+        },
+        {   
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "accept free electrons",
+            "window": 1,
+            "trialNo": 3
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 11
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is active filter?",
+            "window": 1,
+            "trialNo": 10
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 12
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 20
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is active region? The region of BJT operation between saturation and cut off used for linear amplification.",
+            "window": 1,
+            "trialNo": 19
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is AC power supply? Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 21
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "area of the wave below",
+            "window": 3,
+            "trialNo": 5
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "positive electrode or terminal",
+            "window": 3,
+            "trialNo": 4
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "the half power points",
+            "window": 3,
+            "trialNo": 6
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "What is average value?",
+            "window": 3,
+            "trialNo": 14
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "The rotating or moving component of a magnetic circuit.",
+            "window": 3,
+            "trialNo": 13
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "A base 2 number system.",
+            "window": 3,
+            "trialNo": 15
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "What is avionics? Aviation electronics.",
+            "window": 3,
+            "trialNo": 23
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is antenna, receiving? A device that converts a radiated electromagnetic wave into an electrical wave.",
+            "window": 3,
+            "trialNo": 22
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is bipolar junction transistor? (BJT), A three terminal device in which emitter to collector current is controlled by base current.",
+            "window": 3,
+            "trialNo": 24
         }],
         "P04": [
         {
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "saturation and cut off",
+            "window": 1,
+            "trialNo": 2
+        },
+        {   
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "accept free electrons",
+            "window": 1,
+            "trialNo": 3
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "all possible combinations",
+            "window": 1,
+            "trialNo": 1
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 11
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 12
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is active filter?",
+            "window": 1,
+            "trialNo": 10
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 20
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is AC power supply? Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 21
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is active region? The region of BJT operation between saturation and cut off used for linear amplification.",
+            "window": 1,
+            "trialNo": 19
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "area of the wave below",
+            "window": 3,
+            "trialNo": 5
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "the half power points",
+            "window": 3,
+            "trialNo": 6
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "positive electrode or terminal",
+            "window": 3,
+            "trialNo": 4
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "What is average value?",
+            "window": 3,
+            "trialNo": 14
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "A base 2 number system.",
+            "window": 3,
+            "trialNo": 15
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "The rotating or moving component of a magnetic circuit.",
+            "window": 3,
+            "trialNo": 13
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "What is avionics? Aviation electronics.",
+            "window": 3,
+            "trialNo": 23
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is bipolar junction transistor? (BJT), A three terminal device in which emitter to collector current is controlled by base current.",
+            "window": 3,
+            "trialNo": 24
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is antenna, receiving? A device that converts a radiated electromagnetic wave into an electrical wave.",
+            "window": 3,
+            "trialNo": 22
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "primary cell that delivers",
+            "window": 5,
+            "trialNo": 8
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "single winding transformer",
+            "window": 5,
+            "trialNo": 9
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "an amplifier in addition",
+            "window": 5,
+            "trialNo": 7
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "Name for an AC generator.",
+            "window": 5,
+            "trialNo": 17
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "Approximately 20 Hz to 20 kHz.",
+            "window": 5,
+            "trialNo": 18
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is AC generator?",
+            "window": 5,
+            "trialNo": 16
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "What is alligator clip? Spring clip on the end of a test lead used to make a temporary connection.",
+            "window": 5,
+            "trialNo": 26
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is attenuate? To reduce the amplitude of an action or signal. The opposite of amplification.",
+            "window": 5,
+            "trialNo": 27
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is AC/DC? Equipment that will operate on either an AC or DC power source.",
+            "window": 5,
+            "trialNo": 25
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "saturation and cut off",
+            "window": 1,
+            "trialNo": 2
+        },
+        {   
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "accept free electrons",
+            "window": 1,
+            "trialNo": 3
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "all possible combinations",
+            "window": 1,
+            "trialNo": 1
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 11
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 12
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is active filter?",
+            "window": 1,
+            "trialNo": 10
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 20
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is AC power supply? Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 21
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is active region? The region of BJT operation between saturation and cut off used for linear amplification.",
+            "window": 1,
+            "trialNo": 19
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "area of the wave below",
+            "window": 3,
+            "trialNo": 5
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "the half power points",
+            "window": 3,
+            "trialNo": 6
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "positive electrode or terminal",
+            "window": 3,
+            "trialNo": 4
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is average value?",
+            "window": 3,
+            "trialNo": 14
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "A base 2 number system.",
+            "window": 3,
+            "trialNo": 15
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "The rotating or moving component of a magnetic circuit.",
+            "window": 3,
+            "trialNo": 13
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is avionics? Aviation electronics.",
+            "window": 3,
+            "trialNo": 23
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is bipolar junction transistor? (BJT), A three terminal device in which emitter to collector current is controlled by base current.",
+            "window": 3,
+            "trialNo": 24
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is antenna, receiving? A device that converts a radiated electromagnetic wave into an electrical wave.",
+            "window": 3,
+            "trialNo": 22
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "primary cell that delivers",
+            "window": 5,
+            "trialNo": 8
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "single winding transformer",
+            "window": 5,
+            "trialNo": 9
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "an amplifier in addition",
+            "window": 5,
+            "trialNo": 7
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "Name for an AC generator.",
+            "window": 5,
+            "trialNo": 17
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "Approximately 20 Hz to 20 kHz.",
+            "window": 5,
+            "trialNo": 18
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is AC generator?",
+            "window": 5,
+            "trialNo": 16
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is alligator clip? Spring clip on the end of a test lead used to make a temporary connection.",
+            "window": 5,
+            "trialNo": 26
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is attenuate? To reduce the amplitude of an action or signal. The opposite of amplification.",
+            "window": 5,
+            "trialNo": 27
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is AC/DC? Equipment that will operate on either an AC or DC power source.",
+            "window": 5,
+            "trialNo": 25
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "saturation and cut off",
+            "window": 1,
+            "trialNo": 2
+        },
+        {   
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "accept free electrons",
+            "window": 1,
+            "trialNo": 3
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "all possible combinations",
+            "window": 1,
+            "trialNo": 1
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 11
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 12
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is active filter?",
+            "window": 1,
+            "trialNo": 10
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 20
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is AC power supply? Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 21
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is active region? The region of BJT operation between saturation and cut off used for linear amplification.",
+            "window": 1,
+            "trialNo": 19
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "area of the wave below",
+            "window": 3,
+            "trialNo": 5
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "the half power points",
+            "window": 3,
+            "trialNo": 6
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "positive electrode or terminal",
+            "window": 3,
+            "trialNo": 4
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "What is average value?",
+            "window": 3,
+            "trialNo": 14
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "A base 2 number system.",
+            "window": 3,
+            "trialNo": 15
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "The rotating or moving component of a magnetic circuit.",
+            "window": 3,
+            "trialNo": 13
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "What is avionics? Aviation electronics.",
+            "window": 3,
+            "trialNo": 23
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is bipolar junction transistor? (BJT), A three terminal device in which emitter to collector current is controlled by base current.",
+            "window": 3,
+            "trialNo": 24
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is antenna, receiving? A device that converts a radiated electromagnetic wave into an electrical wave.",
+            "window": 3,
+            "trialNo": 22
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "primary cell that delivers",
+            "window": 5,
+            "trialNo": 8
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "single winding transformer",
+            "window": 5,
+            "trialNo": 9
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "an amplifier in addition",
+            "window": 5,
+            "trialNo": 7
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "Name for an AC generator.",
+            "window": 5,
+            "trialNo": 17
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "Approximately 20 Hz to 20 kHz.",
+            "window": 5,
+            "trialNo": 18
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is AC generator?",
+            "window": 5,
+            "trialNo": 16
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "What is alligator clip? Spring clip on the end of a test lead used to make a temporary connection.",
+            "window": 5,
+            "trialNo": 26
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is attenuate? To reduce the amplitude of an action or signal. The opposite of amplification.",
+            "window": 5,
+            "trialNo": 27
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is AC/DC? Equipment that will operate on either an AC or DC power source.",
+            "window": 5,
+            "trialNo": 25
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "saturation and cut off",
+            "window": 1,
+            "trialNo": 2
+        },
+        {   
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "accept free electrons",
+            "window": 1,
+            "trialNo": 3
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "all possible combinations",
+            "window": 1,
+            "trialNo": 1
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 11
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 12
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is active filter?",
+            "window": 1,
+            "trialNo": 10
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 20
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is AC power supply? Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 21
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is active region? The region of BJT operation between saturation and cut off used for linear amplification.",
+            "window": 1,
+            "trialNo": 19
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "area of the wave below",
+            "window": 3,
+            "trialNo": 5
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "the half power points",
+            "window": 3,
+            "trialNo": 6
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "positive electrode or terminal",
+            "window": 3,
+            "trialNo": 4
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is average value?",
+            "window": 3,
+            "trialNo": 14
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "A base 2 number system.",
+            "window": 3,
+            "trialNo": 15
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "The rotating or moving component of a magnetic circuit.",
+            "window": 3,
+            "trialNo": 13
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is avionics? Aviation electronics.",
+            "window": 3,
+            "trialNo": 23
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is bipolar junction transistor? (BJT), A three terminal device in which emitter to collector current is controlled by base current.",
+            "window": 3,
+            "trialNo": 24
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is antenna, receiving? A device that converts a radiated electromagnetic wave into an electrical wave.",
+            "window": 3,
+            "trialNo": 22
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "primary cell that delivers",
+            "window": 5,
+            "trialNo": 8
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "single winding transformer",
+            "window": 5,
+            "trialNo": 9
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "an amplifier in addition",
+            "window": 5,
+            "trialNo": 7
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "Name for an AC generator.",
+            "window": 5,
+            "trialNo": 17
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "Approximately 20 Hz to 20 kHz.",
+            "window": 5,
+            "trialNo": 18
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is AC generator?",
+            "window": 5,
+            "trialNo": 16
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is alligator clip? Spring clip on the end of a test lead used to make a temporary connection.",
+            "window": 5,
+            "trialNo": 26
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is attenuate? To reduce the amplitude of an action or signal. The opposite of amplification.",
+            "window": 5,
+            "trialNo": 27
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is AC/DC? Equipment that will operate on either an AC or DC power source.",
+            "window": 5,
+            "trialNo": 25
         }],
         "P05": [
         {
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "the half power points",
+            "window": 3,
+            "trialNo": 6
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "positive electrode or terminal",
+            "window": 3,
+            "trialNo": 4
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "area of the wave below",
+            "window": 3,
+            "trialNo": 5
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "A base 2 number system.",
+            "window": 3,
+            "trialNo": 15
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "The rotating or moving component of a magnetic circuit.",
+            "window": 3,
+            "trialNo": 13
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is average value?",
+            "window": 3,
+            "trialNo": 14
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "What is bipolar junction transistor? (BJT), A three terminal device in which emitter to collector current is controlled by base current.",
+            "window": 3,
+            "trialNo": 24
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is antenna, receiving? A device that converts a radiated electromagnetic wave into an electrical wave.",
+            "window": 3,
+            "trialNo": 22
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is avionics? Aviation electronics.",
+            "window": 3,
+            "trialNo": 23
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "single winding transformer",
+            "window": 5,
+            "trialNo": 9
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "an amplifier in addition",
+            "window": 5,
+            "trialNo": 7
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "primary cell that delivers",
+            "window": 5,
+            "trialNo": 8
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "Approximately 20 Hz to 20 kHz.",
+            "window": 5,
+            "trialNo": 18
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is AC generator?",
+            "window": 5,
+            "trialNo": 16
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "Name for an AC generator.",
+            "window": 5,
+            "trialNo": 17
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "What is attenuate? To reduce the amplitude of an action or signal. The opposite of amplification.",
+            "window": 5,
+            "trialNo": 27
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is AC/DC? Equipment that will operate on either an AC or DC power source.",
+            "window": 5,
+            "trialNo": 25
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is alligator clip? Spring clip on the end of a test lead used to make a temporary connection.",
+            "window": 5,
+            "trialNo": 26
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "accept free electrons",
+            "window": 1,
+            "trialNo": 3
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "all possible combinations",
+            "window": 1,
+            "trialNo": 1
+        },
+        {   
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "saturation and cut off",
+            "window": 1,
+            "trialNo": 2
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 12
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is active filter?",
+            "window": 1,
+            "trialNo": 10
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 11
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "What is AC power supply? Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 21
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is active region? The region of BJT operation between saturation and cut off used for linear amplification.",
+            "window": 1,
+            "trialNo": 19
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 20
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "the half power points",
+            "window": 3,
+            "trialNo": 6
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "positive electrode or terminal",
+            "window": 3,
+            "trialNo": 4
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "area of the wave below",
+            "window": 3,
+            "trialNo": 5
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "A base 2 number system.",
+            "window": 3,
+            "trialNo": 15
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "The rotating or moving component of a magnetic circuit.",
+            "window": 3,
+            "trialNo": 13
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is average value?",
+            "window": 3,
+            "trialNo": 14
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "What is bipolar junction transistor? (BJT), A three terminal device in which emitter to collector current is controlled by base current.",
+            "window": 3,
+            "trialNo": 24
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is antenna, receiving? A device that converts a radiated electromagnetic wave into an electrical wave.",
+            "window": 3,
+            "trialNo": 22
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is avionics? Aviation electronics.",
+            "window": 3,
+            "trialNo": 23
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "single winding transformer",
+            "window": 5,
+            "trialNo": 9
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "an amplifier in addition",
+            "window": 5,
+            "trialNo": 7
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "primary cell that delivers",
+            "window": 5,
+            "trialNo": 8
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "Approximately 20 Hz to 20 kHz.",
+            "window": 5,
+            "trialNo": 18
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is AC generator?",
+            "window": 5,
+            "trialNo": 16
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "Name for an AC generator.",
+            "window": 5,
+            "trialNo": 17
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "What is attenuate? To reduce the amplitude of an action or signal. The opposite of amplification.",
+            "window": 5,
+            "trialNo": 27
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is AC/DC? Equipment that will operate on either an AC or DC power source.",
+            "window": 5,
+            "trialNo": 25
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is alligator clip? Spring clip on the end of a test lead used to make a temporary connection.",
+            "window": 5,
+            "trialNo": 26
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "accept free electrons",
+            "window": 1,
+            "trialNo": 3
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "all possible combinations",
+            "window": 1,
+            "trialNo": 1
+        },
+        {   
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "saturation and cut off",
+            "window": 1,
+            "trialNo": 2
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 12
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is active filter?",
+            "window": 1,
+            "trialNo": 10
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 11
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "What is AC power supply? Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 21
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is active region? The region of BJT operation between saturation and cut off used for linear amplification.",
+            "window": 1,
+            "trialNo": 19
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 20
         }],
         "P06": [
         {
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "single winding transformer",
+            "window": 5,
+            "trialNo": 9
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "primary cell that delivers",
+            "window": 5,
+            "trialNo": 8
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "an amplifier in addition",
+            "window": 5,
+            "trialNo": 7
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "Approximately 20 Hz to 20 kHz.",
+            "window": 5,
+            "trialNo": 18
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "Name for an AC generator.",
+            "window": 5,
+            "trialNo": 17
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is AC generator?",
+            "window": 5,
+            "trialNo": 16
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "What is attenuate? To reduce the amplitude of an action or signal. The opposite of amplification.",
+            "window": 5,
+            "trialNo": 27
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is alligator clip? Spring clip on the end of a test lead used to make a temporary connection.",
+            "window": 5,
+            "trialNo": 26
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is AC/DC? Equipment that will operate on either an AC or DC power source.",
+            "window": 5,
+            "trialNo": 25
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "accept free electrons",
+            "window": 1,
+            "trialNo": 3
+        },
+        {   
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "saturation and cut off",
+            "window": 1,
+            "trialNo": 2
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "all possible combinations",
+            "window": 1,
+            "trialNo": 1
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 12
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 11
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is active filter?",
+            "window": 1,
+            "trialNo": 10
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "What is AC power supply? Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 21
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 20
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is active region? The region of BJT operation between saturation and cut off used for linear amplification.",
+            "window": 1,
+            "trialNo": 19
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "the half power points",
+            "window": 3,
+            "trialNo": 6
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "area of the wave below",
+            "window": 3,
+            "trialNo": 5
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "positive electrode or terminal",
+            "window": 3,
+            "trialNo": 4
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "A base 2 number system.",
+            "window": 3,
+            "trialNo": 15
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is average value?",
+            "window": 3,
+            "trialNo": 14
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "The rotating or moving component of a magnetic circuit.",
+            "window": 3,
+            "trialNo": 13
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "What is bipolar junction transistor? (BJT), A three terminal device in which emitter to collector current is controlled by base current.",
+            "window": 3,
+            "trialNo": 24
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is avionics? Aviation electronics.",
+            "window": 3,
+            "trialNo": 23
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is antenna, receiving? A device that converts a radiated electromagnetic wave into an electrical wave.",
+            "window": 3,
+            "trialNo": 22
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "single winding transformer",
+            "window": 5,
+            "trialNo": 9
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "primary cell that delivers",
+            "window": 5,
+            "trialNo": 8
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "an amplifier in addition",
+            "window": 5,
+            "trialNo": 7
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "Approximately 20 Hz to 20 kHz.",
+            "window": 5,
+            "trialNo": 18
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "Name for an AC generator.",
+            "window": 5,
+            "trialNo": 17
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is AC generator?",
+            "window": 5,
+            "trialNo": 16
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
             "data_file": "data/fivewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
+            "stimuli": "What is attenuate? To reduce the amplitude of an action or signal. The opposite of amplification.",
+            "window": 5,
+            "trialNo": 27
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is alligator clip? Spring clip on the end of a test lead used to make a temporary connection.",
+            "window": 5,
+            "trialNo": 26
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is AC/DC? Equipment that will operate on either an AC or DC power source.",
+            "window": 5,
+            "trialNo": 25
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "accept free electrons",
+            "window": 1,
+            "trialNo": 3
+        },
+        {   
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "saturation and cut off",
+            "window": 1,
+            "trialNo": 2
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "all possible combinations",
+            "window": 1,
+            "trialNo": 1
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 12
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 11
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is active filter?",
+            "window": 1,
+            "trialNo": 10
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
             "data_file": "data/onewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "stimuli": "What is AC power supply? Power supply that delivers an AC voltage.",
+            "window": 1,
+            "trialNo": 21
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage.",
+            "window": 1,
+            "trialNo": 20
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is active region? The region of BJT operation between saturation and cut off used for linear amplification.",
+            "window": 1,
+            "trialNo": 19
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "the half power points",
+            "window": 3,
+            "trialNo": 6
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "area of the wave below",
+            "window": 3,
+            "trialNo": 5
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "positive electrode or terminal",
+            "window": 3,
+            "trialNo": 4
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "A base 2 number system.",
+            "window": 3,
+            "trialNo": 15
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is average value?",
+            "window": 3,
+            "trialNo": 14
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "The rotating or moving component of a magnetic circuit.",
+            "window": 3,
+            "trialNo": 13
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
             "data_file": "data/threewindow-text.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
+            "stimuli": "What is bipolar junction transistor? (BJT), A three terminal device in which emitter to collector current is controlled by base current.",
+            "window": 3,
+            "trialNo": 24
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is avionics? Aviation electronics.",
+            "window": 3,
+            "trialNo": 23
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is antenna, receiving? A device that converts a radiated electromagnetic wave into an electrical wave.",
+            "window": 3,
+            "trialNo": 22
         }]
     }
 }

@@ -1,85 +1,85 @@
 {
     "data": [
             {
-                "Stimuli": "all possible combinations"
+                "1": "all possible combinations"
             },
             {
-                "Stimuli": "saturation and cut off"
+                "2": "saturation and cut off"
             },
             {
-                "Stimuli": "accept free electrons"
+                "3": "accept free electrons"
             },
             {
-                "Stimuli": "positive electrode or terminal"
+                "4": "positive electrode or terminal"
             },
             {
-                "Stimuli": "area of the wave below"
+                "5": "area of the wave below"
             },
             {
-                "Stimuli": "the half power points"
+                "6": "the half power points"
             },
             {
-                "Stimuli": "an amplifier in addition"
+                "7": "an amplifier in addition"
             },
             {
-                "Stimuli": "primary cell that delivers"
+                "8": "primary cell that delivers"
             },
             {
-                "Stimuli": "single winding transformer"
+                "9": "single winding transformer"
             },
             {
-                "Stimuli": "What is active filter?"
+                "10": "What is active filter?"
             },
             {
-                "Stimuli": "Circuit that passes an AC signal while blocking a DC voltage."
+                "11": "Circuit that passes an AC signal while blocking a DC voltage."
             },
             {
-                "Stimuli": "Power supply that delivers an AC voltage."
+                "12": "Power supply that delivers an AC voltage."
             },
             {
-                "Stimuli": "The rotating or moving component of a magnetic circuit."
+                "13": "The rotating or moving component of a magnetic circuit."
             },
             {
-                "Stimuli": "What is average value?"
+                "14": "What is average value?"
             },
             {
-                "Stimuli": "A base 2 number system."
+                "15": "A base 2 number system."
             },
             {
-                "Stimuli": "What is AC generator?"
+                "16": "What is AC generator?"
             },
             {
-                "Stimuli": "Name for an AC generator."
+                "17": "Name for an AC generator."
             },
             {
-                "Stimuli": "Approximately 20 Hz to 20 kHz."
+                "18": "Approximately 20 Hz to 20 kHz."
             },
             {
-                "Stimuli": "What is active region? The region of BJT operation between saturation and cut off used for linear amplification."
+                "19": "What is active region? The region of BJT operation between saturation and cut off used for linear amplification."
             },
             {
-                "Stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage."
+                "20": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage."
             },
             {
-                "Stimuli": "What is AC power supply? Power supply that delivers an AC voltage."
+                "21": "What is AC power supply? Power supply that delivers an AC voltage."
             },
             {
-                "Stimuli": "What is antenna, receiving? A device that converts a radiated electromagnetic wave into an electrical wave."
+                "22": "What is antenna, receiving? A device that converts a radiated electromagnetic wave into an electrical wave."
             },
             {
-                "Stimuli": "What is avionics? Aviation electronics."
+                "23": "What is avionics? Aviation electronics."
             },
             {
-                "Stimuli": "What is bipolar junction transistor? (BJT), A three terminal device in which emitter to collector current is controlled by base current."
+                "24": "What is bipolar junction transistor? (BJT), A three terminal device in which emitter to collector current is controlled by base current."
             },
             {
-                "Stimuli": "What is AC/DC? Equipment that will operate on either an AC or DC power source."
+                "25": "What is AC/DC? Equipment that will operate on either an AC or DC power source."
             },
             {
-                "Stimuli": "What is alligator clip? Spring clip on the end of a test lead used to make a temporary connection."
+                "26": "What is alligator clip? Spring clip on the end of a test lead used to make a temporary connection."
             },
             {
-                "Stimuli": "What is attenuate? To reduce the amplitude of an action or signal. The opposite of amplification."
+                "27": "What is attenuate? To reduce the amplitude of an action or signal. The opposite of amplification."
             }
         ]
 }

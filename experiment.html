@@ -86,6 +86,8 @@
                             'Trial End Time', 'Trial Time', 'Accuracy'];
             var trialData = [];
             var pid;
+            // var stimuliData;
+            // var count;
 
             function next () {
                 if (currentTrial !== 0) {
@@ -166,6 +168,19 @@
                     console.log(data)
                     console.log(error)
                 })
+
+                // $.get('./trials/trials.json', function (data) {
+                //     stimuliData = data.data;
+                //     next();
+                //     // pid = ACPToolKit.getCurrentParticipantId();
+                // }, "json").done(function() {
+                //     console.log('after done')
+                //     console.log(stimuliData)
+                // }).fail(function(data,error) {
+                //     alert('error');
+                //     console.log(data)
+                //     console.log(error)
+                // })
             });
         </script>
     </body>
