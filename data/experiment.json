@@ -1,760 +1,766 @@
 {
-    "experiments": [
+    "experiments": {
+        "P01": [
         {   
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
-            "data_file": "data/texts.json",
+            "data_file": "data/onewindow-text.json",
             "stimuli": "What is acceptor atoms?",
-            "window": 1
+            "window": "1"
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
+            "data_file": "data/onewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 1
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
+            "data_file": "data/onewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 1
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
+            "data_file": "data/threewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 3
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
-            "data_file": "data/texts.json",
+            "data_file": "data/threewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 3
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
+            "data_file": "data/threewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 3
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
-            "data_file": "data/texts.json",
+            "data_file": "data/fivewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 5
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
-            "data_file": "data/texts.json",
+            "data_file": "data/fivewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 5
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
-            "data_file": "data/texts.json",
+            "data_file": "data/fivewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 5
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
+            "data_file": "data/onewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 1
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
-            "data_file": "data/texts.json",
+            "data_file": "data/onewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 1
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 5
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 1
-        },
-        {
-            "technique": "AUTOCOMPASTE", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
+            "data_file": "data/onewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 1
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
-            "data_file": "data/texts.json",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 5
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
-            "data_file": "data/texts.json",
+            "data_file": "data/fivewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 5
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
-            "data_file": "data/texts.json",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        }],
+        "P02": [
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 5
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
-            "data_file": "data/texts.json",
+            "data_file": "data/onewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 1
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "sentence",
-            "data_file": "data/texts.json",
+            "data_file": "data/onewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 1
         },
         {
             "technique": "TRADITIONAL", 
             "granularity": "paragraph",
-            "data_file": "data/texts.json",
+            "data_file": "data/onewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 1
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "phrase",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "sentence",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
-        {
-            "technique": "TRADITIONAL", 
-            "granularity": "paragraph",
-            "data_file": "data/texts.json",
-            "stimuli": "What is acceptor atoms?",
-            "window": 3
-        },
+        }],
+        "P03": [
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
-            "data_file": "data/texts.json",
+            "data_file": "data/fivewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 5
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
-            "data_file": "data/texts.json",
+            "data_file": "data/fivewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 5
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
-            "data_file": "data/texts.json",
+            "data_file": "data/fivewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 5
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
-            "data_file": "data/texts.json",
+            "data_file": "data/onewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 1
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
-            "data_file": "data/texts.json",
+            "data_file": "data/onewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 1
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
-            "data_file": "data/texts.json",
+            "data_file": "data/onewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 1
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
-            "data_file": "data/texts.json",
+            "data_file": "data/threewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 3
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "sentence",
-            "data_file": "data/texts.json",
+            "data_file": "data/threewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 3
         },
         {
             "technique": "AUTOCOMPASTE", 
             "granularity": "paragraph",
-            "data_file": "data/texts.json",
+            "data_file": "data/threewindow-text.json",
             "stimuli": "What is acceptor atoms?",
             "window": 3
-        }      
-    ]
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        }],
+        "P04": [
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        }],
+        "P05": [
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        }],
+        "P06": [
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/fivewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 5
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/onewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 1
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        },
+        {
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/threewindow-text.json",
+            "stimuli": "What is acceptor atoms?",
+            "window": 3
+        }]
+    }
 }

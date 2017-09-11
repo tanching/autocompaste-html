@@ -1,0 +1,85 @@
+{
+    "data": [
+            {
+                "Stimuli": "all possible combinations"
+            },
+            {
+                "Stimuli": "saturation and cut off"
+            },
+            {
+                "Stimuli": "accept free electrons"
+            },
+            {
+                "Stimuli": "positive electrode or terminal"
+            },
+            {
+                "Stimuli": "area of the wave below"
+            },
+            {
+                "Stimuli": "the half power points"
+            },
+            {
+                "Stimuli": "an amplifier in addition"
+            },
+            {
+                "Stimuli": "primary cell that delivers"
+            },
+            {
+                "Stimuli": "single winding transformer"
+            },
+            {
+                "Stimuli": "What is active filter?"
+            },
+            {
+                "Stimuli": "Circuit that passes an AC signal while blocking a DC voltage."
+            },
+            {
+                "Stimuli": "Power supply that delivers an AC voltage."
+            },
+            {
+                "Stimuli": "The rotating or moving component of a magnetic circuit."
+            },
+            {
+                "Stimuli": "What is average value?"
+            },
+            {
+                "Stimuli": "A base 2 number system."
+            },
+            {
+                "Stimuli": "What is AC generator?"
+            },
+            {
+                "Stimuli": "Name for an AC generator."
+            },
+            {
+                "Stimuli": "Approximately 20 Hz to 20 kHz."
+            },
+            {
+                "Stimuli": "What is active region? The region of BJT operation between saturation and cut off used for linear amplification."
+            },
+            {
+                "Stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage."
+            },
+            {
+                "Stimuli": "What is AC power supply? Power supply that delivers an AC voltage."
+            },
+            {
+                "Stimuli": "What is antenna, receiving? A device that converts a radiated electromagnetic wave into an electrical wave."
+            },
+            {
+                "Stimuli": "What is avionics? Aviation electronics."
+            },
+            {
+                "Stimuli": "What is bipolar junction transistor? (BJT), A three terminal device in which emitter to collector current is controlled by base current."
+            },
+            {
+                "Stimuli": "What is AC/DC? Equipment that will operate on either an AC or DC power source."
+            },
+            {
+                "Stimuli": "What is alligator clip? Spring clip on the end of a test lead used to make a temporary connection."
+            },
+            {
+                "Stimuli": "What is attenuate? To reduce the amplitude of an action or signal. The opposite of amplification."
+            }
+        ]
+}

@@ -47,7 +47,7 @@
                             </tr>
                             <tr>
                                 <td>Num Of Windows</td>
-                                <td>???</td>
+                                <td><span class="js-expt-window">?</span></td>
                             </tr>
                             <tr>
                                 <td>Trial</td>
@@ -109,7 +109,8 @@
                 }
 
                 if (currentTrial < totalNumberOfTrials) {
-                    ACPToolKit.presentTrial(trialsData[currentTrial]);
+                    // ACPToolKit.presentTrial(trialsData[currentTrial]);
+                    ACPToolKit.presentTrial(trialsData.P01[currentTrial]);
                     currentTrial += 1;
                     $('.js-expt-current-trial').text(currentTrial);
                 } else {
@@ -118,20 +119,28 @@
                     window.location = 'questionnaire-post.html';
                 }
             }
+            //Each participant will have 18 conditions
+            //Total trials: 18 * 4 = 54
 
             $(document).ready(function () {
-                $.get('data/experiments.json', function (data) {
+                $.get('./data/experiment.json', function (data) {
                     trialsData = data.experiments;
                     currentTrial = 0;
-                    totalNumberOfTrials = trialsData.length;
-                    $('.js-expt-num-trials').text(totalNumberOfTrials);
+                    totalNumberOfTrials = trialsData.P01.length;
+                    $('.js-expt-num-trials').text(totalNumberOfTrials);                    
                     trialData.push(headers);
                     next();
                     pid = ACPToolKit.getCurrentParticipantId();
-                }).done(function() {
+                }, "json").done(function() {
                     console.log('after done')
                     console.log(trialsData)
                     console.log(pid)
+                }).fail(function(data,error) {
+                    alert('error');
+                    console.log(data)
+                    console.log(error)
+                }).always(function(){
+                    console.log(trialsData)
                 })
             });
         </script>
